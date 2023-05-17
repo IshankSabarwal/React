@@ -34,13 +34,10 @@ function App() {
           </header>
           <article className="article-main" style={{ backgroundImage: `url(${dungeonImage})` }}>
             <div className="article-content">
-              <h2 className="m-header">Sadly, Ek Aur...</h2>
+              <h2 className="m-header">To Be Continued...</h2>
               <p className="m-paragraph">
-                Dekho Ayushi, Meri English ko thoda ignore krna aur samajhne ki koshish krna.
-                Umm, Last time jb bnane baitha tha to files unsaved hi reh gt thi, par is baar
-                mai laptop plugin kr ke bna rha..Well, tumko is baar laptop na lana pade isliye thoda
-                aur time laga, aur tum next time jb flaunt karogi to view acccha milega.Par mai to kahung 
-                ek baar laptop me jaroor try krna...<br></br>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <br></br>
                 
               </p>
             </div>
