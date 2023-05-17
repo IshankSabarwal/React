@@ -36,7 +36,7 @@ function App() {
             <div className="article-content">
               <h2 className="m-header">To Be Continued...</h2>
               <p className="m-paragraph">
-                logo ki neend haram na kra kro raat ko.
+                logo ki neend haram na kra kro raat ko.yo
               </p>
             </div>
             
